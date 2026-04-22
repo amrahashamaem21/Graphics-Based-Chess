@@ -1,3 +1,6 @@
+
+GRAPHICS BASED CHESS GAME
+
 This project is a graphical Chess game developed in C++ using the SFML (Simple and Fast Multimedia Library) framework.
 It provides a full two-player chess experience with drag-and-drop interaction, visual board rendering, and rule-based move validation.
 The game follows standard chess rules including legal movement, capturing, check detection, checkmate, and stalemate conditions.
